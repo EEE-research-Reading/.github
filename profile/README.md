@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Replace the src URL below with the path to your uploaded logo in this repo, e.g., ./assets/logo.png -->
-  <img src="https://raw.githubusercontent.com/EEE-research-Reading/.github/main/profile/banner.jpg" alt="Energy and Environmental Engineering Research Group Logo" width="220"/>
+  <img src="https://raw.githubusercontent.com/EEE-research-Reading/.github/master/profile/banner.jpg" alt="Energy and Environmental Engineering Research Group Logo" width="220"/>
 
   # Energy and Environmental Engineering Research Group
   **School of the Built Environment | University of Reading**
